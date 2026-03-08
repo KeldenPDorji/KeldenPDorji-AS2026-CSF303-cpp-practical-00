@@ -144,4 +144,4 @@ Defines a `Student` class with private attributes and methods: `addMark`, `getAv
 g++ Q10.cpp -o Q10 && ./Q10
 ```
 
-![Q10 Output](screenshots/10.png)# KeldenPDorji-AS2026-CSF303-cpp-practical-00
+![Q10 Output](screenshots/10.png)
